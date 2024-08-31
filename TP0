@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Hola mundo" << std::endl; // Muestra "Hola mundo" y deja el cursor en la siguiente línea
+    return 0; // Termina el programa
+}
